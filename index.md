@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 ## Steven Wladimir Silva Cardenas
-<div>Teachable Machine Image Model</div>
+<div>Identificación de objectos</div>
 <button type="button" onclick="init()">Start</button>
 <div id="webcam-container"></div>
 <div id="label-container"></div>
